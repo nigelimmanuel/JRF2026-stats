@@ -64,3 +64,9 @@ Hasilnya ada di `out/`.
 - Hasil lomba: [results.scorenow.co.id](https://results.scorenow.co.id)
 - Rute HM dan FM: [ruanglari.com](https://ruanglari.com/gpx/jrf-marathon-2026-full-marathon)
 - Peta dasar: © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
+
+## Lisensi
+
+- **Script** (`scripts/`): [MIT](LICENSE).
+- **Chart dan teks caption** (`charts/`): [CC BY 4.0](charts/LICENSE). Boleh dipakai ulang dan diubah, termasuk untuk keperluan komersial, asal mencantumkan kredit "Nigel Immanuel / JRF2026-stats". Peta dasar di chart 7 adalah © OpenStreetMap contributors (data ODbL); kredit itu harus tetap ada.
+- **Dataset** (`data/`): berasal dari [results.scorenow.co.id](https://results.scorenow.co.id) dan tidak termasuk kedua lisensi di atas. Lihat [`data/README.md`](data/README.md).
